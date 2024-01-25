@@ -1,0 +1,15 @@
+.VisaApp{
+    color: rgb(0, 159, 16);
+    border: 1px solid rgb(126, 0, 84);
+    border-radius: 20px;
+    margin: 1%;
+    width: 30%;
+    display:inline-block;
+    text-align: center;
+}
+#Paragraph{
+    color: brown;
+}
+h1{
+    
+}
